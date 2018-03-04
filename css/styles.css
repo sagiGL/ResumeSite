@@ -131,7 +131,7 @@ p + h3 {
 .work  {
   color: white;
   background: linear-gradient(rgba(141, 153, 174, 0.8), rgba(141, 153, 174, 0.5)),
-              url(../images/france.jpg) no-repeat ;
+              url(../images/france.jpg) no-repeat fixed;
   background-size: cover;
 
 }
