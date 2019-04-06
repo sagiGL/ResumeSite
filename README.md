@@ -1,2 +1,2 @@
 # ResumeSite.github.io
-Resume stire
+Feel free to copy the site and edit as you wish 
